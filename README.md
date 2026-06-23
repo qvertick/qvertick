@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <code style="background-color: #222222; color: #ffffff; padding: 6px 12px; border-radius: 4px; font-size: 14px;">My GitHub Stats 🚀</code>
+  <code style="background-color: #222222; color: #ffffff; padding: 6px 12px; border-radius: 4px; font-size: 14px;">---------------------</code>
 </p>
 
 <p align="center" style="margin-top: 20px;">
