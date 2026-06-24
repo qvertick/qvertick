@@ -35,5 +35,5 @@
 </p>
 
 <p align="center" style="margin-top: 25px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=qvertick&theme=onedark&column=6&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qvertick&theme=dark&hide_border=true&background=111111&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=aaaaaa&currStreakLabel=ffffff" alt="GitHub Streak" height="150" />
 </p>
