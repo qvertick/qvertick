@@ -34,8 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qvertick&layout=compact&hide_border=true&bg_color=111111&title_color=ffffff&text_color=ffffff" alt="Top Languages" height="150" />
 </p>
 
-<p align="center" style="margin-top: 20px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=qvertick&theme=onedark&column=6&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
+<p align="center" style="margin-top: 25px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=qvertick&theme=onedark&column=6&no-bg=true" alt="GitHub Trophies" />
 </p>
