@@ -30,11 +30,6 @@
 </p>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=qvertick&show_icons=true&hide_border=true&bg_color=111111&title_color=ffffff&icon_color=ffffff&text_color=ffffff&count_private=true" alt="GitHub Stats" height="150" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qvertick&layout=compact&hide_border=true&bg_color=111111&title_color=ffffff&text_color=ffffff" alt="Top Languages" height="150" />
-</p>
-
-<p align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=qvertick&show_icons=true&theme=dark&border_color=333333&bg_color=111111&title_color=ffffff&icon_color=ffffff&text_color=ffffff&count_private=true" alt="GitHub Stats" height="150" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qvertick&layout=compact&theme=dark&border_color=333333&bg_color=111111&title_color=ffffff&text_color=ffffff" alt="Top Languages" height="150" />
 </p>
