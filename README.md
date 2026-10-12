@@ -4,24 +4,9 @@
   <br />
   <br />
 
-  <!-- Блок с технологиями -->
-  <big><code style="background-color: #222222; color: #ffffff; padding: 6px 12px; border-radius: 4px; font-size: 14px;">ㅤㅤㅤTechnologies & Toolsㅤㅤㅤ</code></big>
-  
-  <br />
-  <br />
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-  </a>
-
-  <br />
-  <br />
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
 
   <!-- Блок со статистикой -->
   <big><code style="background-color: #222222; color: #ffffff; padding: 6px 12px; border-radius: 4px; font-size: 14px;">ㅤㅤㅤMy statsㅤㅤㅤ</code></big>
