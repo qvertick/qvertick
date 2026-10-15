@@ -10,7 +10,7 @@
         I'm qvertick, a Developer 🚀
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Make+it+simple+but+I'm+a+really+complicant+person.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Make+it+simple+but+I'm+a+really+complicated+person.">
       <br>
       <b>
           ~ qvertick ~
@@ -28,9 +28,9 @@
     </picture>
 </p>
 
-### Languages & Tools 🧰
+### Languages & Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,linux,git,neovim)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,net,git,neovim)]()
 
 ### 
 
@@ -51,7 +51,6 @@
   <div align="center">
   <table>
   <tr>
-  <td><a href="https://github.com/qvertick"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qvertick&count_private=true&show_icons=true&border_radius=20&include_all_commits=true&line_height=21&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/></a></td>
   <td><a href="https://github.com/qvertick"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qvertick&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/></a></td>
   </tr>
   </table>
