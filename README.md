@@ -1,23 +1,60 @@
-<div align="center">
-  <img width="100%" alt="GIFSaaS" src="https://github.com/user-attachments/assets/c334e745-c8a2-4cc7-9812-507670231e1e" />
+<!-- START -->
 
-  <br />
-  <br />
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm qvertick, a Developer 🚀
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Make+it+simple+but+I'm+a+really+complicant+person.">
+      <br>
+      <b>
+          ~ qvertick ~
+      </b>    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+<br>
 
-  <big><code style="background-color: #222222; color: #ffffff; padding: 6px 12px; border-radius: 4px; font-size: 14px;"><b>ㅤㅤㅤTechnologies<b> & Toolsㅤㅤㅤ</code></big>
-  <br />
-  <br />
+<!-- contribution snake -->
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qvertick/qvertick/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qvertick/qvertick/output/github-contribution-grid-snake.svg">
+      <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/qvertick/qvertick/output/github-contribution-grid-snake.svg" />
+    </picture>
+</p>
 
-  <!-- Иконки в стиле квадратных плашек -->
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux,bash,net" alt="Linux, Bash, Networking" />
-  </a>
+### Languages & Tools 🧰
 
-  <br />
-  <br />
+[![My Skills](https://skillicons.dev/icons?i=html,css,linux,git,neovim)]()
 
-  <big><code style="background-color: #222222; color: #ffffff; padding: 6px 12px; border-radius: 4px; font-size: 14px;">ㅤㅤㅤMy statsㅤㅤㅤ</code></big>
-  <br />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qvertick&theme=dark&border_color=333333&background=111111&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=aaaaaa&currStreakLabel=ffffff" alt="GitHub Streak" height="150" />
-</div>
+### 
+
+<details>
+
+<summary><samp><b>&#9776; See more details</b></samp></summary>
+
+  <!-- Github Streak Stats -->
+  <div align="center">
+  <table>
+  <tr>
+  <td><a href="https://github.com/qvertick"><img align="center" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=qvertick&theme=nord&hide_border=true&border_radius=20&background=20212C"></a></td>
+  </tr>
+  </table>
+  </div>
+
+  <!-- Github Stats & Top Languages -->
+  <div align="center">
+  <table>
+  <tr>
+  <td><a href="https://github.com/qvertick"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qvertick&count_private=true&show_icons=true&border_radius=20&include_all_commits=true&line_height=21&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/></a></td>
+  <td><a href="https://github.com/qvertick"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qvertick&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/></a></td>
+  </tr>
+  </table>
+  </div>
+
+</details>
