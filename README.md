@@ -22,7 +22,7 @@
 
 ### Languages & Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,python,githubactions,net,git,docker)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,python,githubactions,gitlab,net,git,docker)]()
 
 ### 
 
